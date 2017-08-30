@@ -1,0 +1,55 @@
+{
+	"afterglow_folder_icons": true,
+	"auto_complet_size_limit": 4194304,
+	"auto_completion": true,
+	"auto_indent": true,
+	"auto_match_enabled": true,
+	"bold_folder_labels": true,
+	"caret_style": "smooth",
+	"color_scheme": "Packages/Colorcoder/Monocyanide ColorScheme - Black (Colorcoded).tmTheme",
+	"contrasted_quick_panel": true,
+	"contrasted_sidebar": true,
+	"contrasted_tabs": true,
+	"default_encoding": "UTF-8",
+	"default_line_ending": "system",
+	"draw_minimap_border": true,
+	"fade_fold_buttons": true,
+	"fold_buttons": true,
+	"font_face": "Consolas",
+	"font_size": 11,
+	"gutter": true,
+	"highlight_line": true,
+	"icon_file_type_enable": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal"
+	],
+	"line_numbers": true,
+	"line_padding_botton": 2,
+	"line_padding_top": 2,
+	"match_brackets_angle": true,
+	"match_brackets_braces": true,
+	"match_brackets_square": true,
+	"match_selection": true,
+	"original_color_scheme": "Packages/Theme - Cyanide/Cyanide - Sky - Contrasted Semi.tmTheme",
+	"rulers":
+	[
+		80
+	],
+	"save_on_focus_lost": true,
+	"scroll_past_end": true,
+	"show_encoding": true,
+	"show_full_path": true,
+	"smart_indent": true,
+	"spell_check": false,
+	"tab_completion": true,
+	"tab_size": 4,
+	"theme": "Cyanide.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"word_wrap": true,
+	"wrap_width": 80
+}
