@@ -1,1 +1,0 @@
-#### Parrot Security OS Configuration
