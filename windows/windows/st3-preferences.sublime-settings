@@ -25,7 +25,7 @@
 	],
 	"bold_folder_labels": true,
 	"caret_style": "smooth",
-	"color_scheme": "Packages/Colorsublime - Themes/cache/Colorsublime-Themes-master/themes/Monokai-Dev.tmTheme",
+	"color_scheme": "Packages/Theme - Cyanide/Monocyanide - Black.tmTheme",
 	"contrasted_quick_panel": true,
 	"contrasted_sidebar": true,
 	"contrasted_tabs": true,
@@ -109,7 +109,7 @@
 	"translate_tabs_to_spaces": true,
 	"tree_animation_enabled": true,
 	"trim_automatic_white_space": true,
+	"update_check": false,
 	"word_wrap": true,
-	"wrap_width": 80,
-	"update_check":false
+	"wrap_width": 80
 }
